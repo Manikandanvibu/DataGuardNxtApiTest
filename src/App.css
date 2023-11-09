@@ -1,3 +1,11 @@
+.background {
+  background-image: url('https://i.postimg.cc/9fDwMc31/autumn-season-leafs-plant-scene-generative-ai.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  /* Add any other background styles you need */
+}
+
 .App {
   text-align: center;
 }
@@ -36,3 +44,8 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
